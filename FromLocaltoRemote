@@ -1,0 +1,15 @@
+create normal folder in laptop and add files inside that using
+git add .
+
+git commit -m "message"
+
+git status
+
+
+git remote add origin <link> link is create new repo in github and give that link to add local files
+<br>
+git remote -v to see the version
+<br>
+git branch to see in which branch 
+<br>
+git push origin main 
